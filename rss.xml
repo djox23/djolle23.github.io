@@ -2,19 +2,19 @@
 <rss version="2.0">
   <channel>
     <title>Urban Grind Hub</title>
-    <link> https://www.youtube.com </link>
-    <description>Your website description</description>
+    <link> https://djox23.github.io/djolle23.github.io/index.html </link>
+    <description> Ovo je portal koji sadrzi vest </description>
     <item>
-		<title>Article Title 1</title>
-		<link>kafe.html</link>
-		<description>Description of Article 1</description>
-		<pubDate>Publication Date 1</pubDate>
+		<title>Naslov vesti broj 1</title>
+		<link>https://djox23.github.io/djolle23.github.io/kafe.html</link>
+		<description>Veoma dugacak opis majmuneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</description>
+		<pubDate>2024-01-27</pubDate>
     </item>
 	<item>
-		<title>Article Title 2</title>
-		<link>http://www.yourwebsite.com/article2</link>
-		<description>Description of Article 2</description>
-		<pubDate>Publication Date 2</pubDate>
+		<title>Naslov vesti broj 2</title>
+		<link>https://djox23.github.io/djolle23.github.io/galerija.html</link>
+		<description>Veoma dugacak opis majmuneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</description>
+		<pubDate>2024-01-27</pubDate>
     </item>
   </channel>
 </rss>
