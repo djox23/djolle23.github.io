@@ -5,15 +5,15 @@
     <link> https://djox23.github.io/djolle23.github.io/index.html </link>
     <description> Ovo je portal koji sadrzi vest </description>
     <item>
-		<title>Naslov vesti broj 1</title>
+		<title>Kafe</title>
 		<link>https://djox23.github.io/djolle23.github.io/kafe.html</link>
-		<description>Veoma dugacak opis majmuneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</description>
+		<description>Ostanite u toku sa novim kafama</description>
 		<pubDate>2024-01-27</pubDate>
     </item>
 	<item>
-		<title>Naslov vesti broj 2</title>
+		<title>Galerija</title>
 		<link>https://djox23.github.io/djolle23.github.io/galerija.html</link>
-		<description>Veoma dugacak opis majmuneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</description>
+		<description>Pratite nas zbog novih slika našeg kafića</description>
 		<pubDate>2024-01-27</pubDate>
     </item>
   </channel>
